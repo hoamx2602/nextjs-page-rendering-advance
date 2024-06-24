@@ -81,4 +81,4 @@ app.get('/news', (req, res) => {
 
 initDb();
 
-app.listen(8090);
+app.listen(5555);
